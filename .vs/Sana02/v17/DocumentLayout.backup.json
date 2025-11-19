@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D203019F-A1E3-4471-9931-53B1180FA3A1}|While\\While.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana02\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D203019F-A1E3-4471-9931-53B1180FA3A1}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A43347C-D402-4248-9D53-1041C0E044FA}|SwitchValues\\SwitchValues.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\sana\\sana02\\switchvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A43347C-D402-4248-9D53-1041C0E044FA}|SwitchValues\\SwitchValues.csproj|solutionrelative:switchvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\SwitchValues\\Program.cs",
-              "RelativeDocumentMoniker": "SwitchValues\\Program.cs",
-              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\SwitchValues\\Program.cs",
-              "RelativeToolTip": "SwitchValues\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\While\\Program.cs*",
+              "RelativeToolTip": "While\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:01:24.503Z",
+              "WhenOpened": "2025-11-18T13:44:58.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\SwitchValues\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchValues\\Program.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\SwitchValues\\Program.cs",
+              "RelativeToolTip": "SwitchValues\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:01:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\PointsAverage\\Program.cs",
               "RelativeDocumentMoniker": "PointsAverage\\Program.cs",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "PointsAverage\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:35:23.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:35:23.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u043A\u0443\u0440\u0441\u0438\\Sana\\Sana02\\QuadraticEquation\\Program.cs",
               "RelativeDocumentMoniker": "QuadraticEquation\\Program.cs",
